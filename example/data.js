@@ -4,10 +4,10 @@ var ganttData = [
 			{ name: "Planned", start: new Date(2010,00,01,12,20,00), end: new Date(2010,00,03,18,20,00) },
       { name: "Actual", start: new Date(2010,00,02), end: new Date(2010,00,05), color: "rgb(253, 91, 42)",
         series: [
-          { name: "周欣", start: new Date(2010,00,02), end: new Date(2010,00,05), color: "rgb(100, 237, 247)" }
+          { name: "Jack", start: new Date(2010,00,02), end: new Date(2010,00,05), color: "rgb(100, 237, 247)" }
         ]
       },
-      { name: "龚媚媚", start: new Date(2010,00,02), end: new Date(2010,00,05), color: "rgb(253, 91, 42)" }
+      { name: "Rose", start: new Date(2010,00,02), end: new Date(2010,00,05), color: "rgb(253, 91, 42)" }
 		]
 	}, 
 	{
